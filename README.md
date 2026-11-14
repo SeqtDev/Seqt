@@ -7,7 +7,7 @@
 - 🛠️ **Fix (System-level):** System-level repair of found errors (sector remapping).
 - 💾 **Format:** Full formatting of the selected disk (with confirmation).
 - 🌍 **Multilingual:** Russian and English support.
-- 💻 **Cross-platform:** Windows (x86/x64)
+- 💻 **Cross-platform:** Windows (x64)
 
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
@@ -23,7 +23,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - 🛠️ **Исправление:** Системное исправление найденных ошибок (переназначение секторов).
 - 💾 **Форматирование:** Полное форматирование выбранного диска (с окном подтверждения).
 - 🌍 **Мультиязычность:** Поддержка русского и английского языков.
-- 💻 **Кроссплатформенность:** Версии для Windows (x86/x64)
+- 💻 **Кроссплатформенность:** Версии для Windows (x64)
 
 ## 📄 Лицензия
 Этот проект распространяется под лицензией MIT. Подробности в файле [LICENSE](LICENSE).
